@@ -1,0 +1,48 @@
+body {
+    font-family: Verdana, sans-serif;
+    color: #444;
+}
+
+h1 {
+    background-color: #fac877;
+    text-align: center;
+    color: #9f461f;
+    font-size: 45px;
+}
+
+h2 {
+    color: red;
+    background-color: #C79090;
+    padding: 8px;
+    border-bottom: solid 4px red;
+
+}
+
+p {
+    font-size: 12px;
+    
+}
+
+.data {
+    font-style: italic;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    font-style: bold;
+    font-size: 13px;
+    list-style-position: inside;
+}
+
+h6 {
+    font-style: bold;
+    font-size: 14px;
+}
+
+
+
+
+
